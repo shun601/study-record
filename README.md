@@ -21,7 +21,7 @@
   - Pandasの生みの親が書いた本で、Numpy, Pandas, Matplotlib, Seaborn, Scikit-learnまで解説している。特にPandasについて非常に詳しく書かれているため、Pandasの辞書として非常に重宝する。機械学習はおまけ程度。
 2. [Pythonデータサイエンスハンドブック]()
   - Numpy, Pandas, Matplotlib, Seaborn, Scikit-learnまで解説している。機械学習は一通り代表的な手法について解説している。
-3. [Udemy]()
+3. [Udemy 世界で18万人が受講 実践 Python データサイエンス](https://www.udemy.com/course/python-jp/)
   - 分かりやすいが内容が古かったので、今は使えないコードもあるのが難点(locではなくixを使っているなど)
 4. [Udemy 米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座](https://www.udemy.com/course/ds_for_python/)
   - Numpy, Pandas, Matplotlib, Seabornについて分かりやすく解説している。非常におすすめの教材。
@@ -29,40 +29,50 @@
   - 4の教材で勉強した後に、取り組むと良いと思われる。非常に実装力がつくのでおすすめ。 
 
 ## Docker
-1. [Udemy]()
+1. [Udemy 米国AI開発者がゼロから教えるDocker講座](https://www.udemy.com/course/aidocker/)
   - この動画以上にDockerを分かりやすく解説している動画は他にないと感じるくらい分かりやすい。
-2. 
 
 ## Git
-1. [わかばちゃん]()
-2. [Udemy]()
-3. [かめさんのぶろぐ]()
-4. [おさるぶろぐ]()
+1. [わかばちゃんと学ぶGit使い方入門](https://www.amazon.co.jp/dp/4863542178)
+  - Source TreeというGUIを使って、Gitの基本を解説している。マンガで学べるので初心者にも分かりやすい
+2. [Udemy 米国AI開発者がやさしく教えるGit入門講座](https://www.udemy.com/course/aigitgithub/)
+  - Docker講座でお馴染みのかめさんが解説するGit講座。ハンズオンで学べて非常に分かりやすい。
 
 ## AWS
-1. [AWS認定クラウドプラクティショナー]()
-2. [AWS公式ドキュメント]()
+1. [AWS認定資格試験テキスト AWS認定 クラウドプラクティショナー](https://www.amazon.co.jp/dp/4797397403)
+2. [AWS Certified Cloud Practitioner AWS公式ドキュメント](https://aws.amazon.com/jp/certification/certified-cloud-practitioner/)
 
 ## 画像処理
 1. [ディジタル画像処理](https://www.amazon.co.jp/dp/490347464X/)
+  - 画像処理の教科書。分かりやすくまとめられている。
 2. [画像処理100本ノック](https://github.com/yoyoyo-yo/Gasyori100knock)
-3. [Udemy]() 
+  - 実際に手を動かしながら、OpenCVとNumpyを使って画像処理を学べる。
+3. [Udemy 画像処理の基礎：フィルタリング，パターン認識から撮像過程モデルまで](https://www.udemy.com/course/image_processing_python/) 
+  - 上記1, 2と並行して進めると良い。講座パートと演習パートが分かれているので、取り組みやすい。
 
 ## 機械学習
-1. [Udemy]()
-2. [Pythonではじめる機械学習]()
+1. [Udemy Pythonで機械学習：scikit-learnで学ぶ識別入門](https://www.udemy.com/course/python-scikit-learn/)
+  - 画像処理の講座でもお馴染みの玉木先生によるscikit-learnを使った機械学習の講座。ハンズオンで分かりやすい。
+2. [Pythonではじめる機械学習](https://www.amazon.co.jp/dp/4873117984/)
+  - 機械学習のバイブルになる本。
 
 ## 深層学習
 1. [ゼロからつくるDeep Learning](https://www.amazon.co.jp/dp/4873117585/)
-2. [ゼロからつくるDeep Learning2]()
+  - 名著。Numpyさえ使えればディープラーニングの基礎をこの１冊で学べる。
+2. [ゼロからつくるDeep Learning2 自然言語処理編](https://www.amazon.co.jp/dp/4873118360/)
+  - 名著。ディープラーニングを使った自然言語処理をこの１冊で学べる。
 3. [Hands Onで学ぶPyTorchによる深層学習入門(Udemy)](https://www.udemy.com/course/hands-on-pytorch/)
+  - PyTorchを初めてみたい方におすすめ。動画で分かりやすい。
 4. [PyTorch 公式チュートリアル(日本語翻訳版)](https://yutaroogawa.github.io/pytorch_tutorials_jp/)
+  - 下手な参考書に手を出すよりも、PyTorch公式が一番情報が豊富。
 5. [つくりながら学ぶ!PyTorchによる発展ディープラーニング](https://www.amazon.co.jp/dp/B07VPDVNKW)
-6. [PyTorch実践入門]()
+  - 難易度はやや上がるが、PyTorchを使った物体検知、セグメンテーション、GAN、自然言語処理が学べる。コードのコメントが非常に丁寧で分かりやすい。
+6. [PyTorch実践入門](https://www.amazon.co.jp/dp/4839974691/)
+  - PyTorchについて基礎から分かりやすく解説した本。かなり細かいことも学べる。後半のデータサイズが大きいことが難点。
 
 
 ## Kaggle
-1. [Pythonで始めるKaggleスタートブック]()
+1. [Pythonで始めるKaggleスタートブック](https://www.amazon.co.jp/dp/4065190061/)
 2. [Kaggleで勝つデータ分析の技術]()
 
 ## SQL
@@ -87,6 +97,7 @@
 8. [Rによるやさしい統計学]()
 9. [図解 ベイズ統計学「超」入門]()
 10. [心理統計学の基礎]()
+11. [統計WEB]()
 
 ## G検定
 1. [白本]()
