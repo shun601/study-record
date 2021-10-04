@@ -87,37 +87,36 @@
   - 大学の微分積分の基礎が復習できる。
 
 ## 統計学
-1. [マンガでわかる統計学]()
-2. [マンガでわかる統計学「回帰分析編」]()
-3. [マンガでわかる統計学「因子分析編」]()
-4. [マンガでわかるベイズ統計学]()
-5. [マンガでわかるやさしい統計学]()
-6. [統計学がわかるファーストブック]()
-7. [統計学がわかる 回帰分析・因子分析編]()
-8. [Rによるやさしい統計学]()
-9. [図解 ベイズ統計学「超」入門]()
-10. [心理統計学の基礎]()
-11. [統計WEB]()
+1. [マンガでわかる統計学](https://www.amazon.co.jp/dp/4274065707/)
+2. [マンガでわかる統計学「回帰分析編」](https://www.amazon.co.jp/dp/4274066142/)
+3. [マンガでわかる統計学「因子分析編」](https://www.amazon.co.jp/dp/4274066622/)
+4. [マンガでわかるベイズ統計学](https://www.amazon.co.jp/dp/4274221350/)
+5. [マンガでわかるやさしい統計学](https://www.amazon.co.jp/dp/4262155609/)
+6. [統計学がわかるファーストブック]https://www.amazon.co.jp/dp/4774131903/()
+7. [統計学がわかる 回帰分析・因子分析編](https://www.amazon.co.jp/dp/4774137073/)
+8. [Rによるやさしい統計学](https://www.amazon.co.jp/dp/4274067106/)
+9. [図解 ベイズ統計学「超」入門](https://www.amazon.co.jp/dp/4797366575/)
+10. [心理統計学の基礎](https://www.amazon.co.jp/dp/4641121605/)
+11. [統計WEB 統計学の時間](https://bellcurve.jp/statistics/course/)
 
 ## G検定
-1. [白本]()
-2. [Avilen問題集]()
-3. [黒本]()
-4. [人工知能は人類を超えるか]()
-5. [AI白書2020]()
-6. [人工知能のアーキテクト達]()
+1. [深層学習教科書 ディープラーニング G検定 ジェネラリスト 公式テキスト](https://www.amazon.co.jp/dp/4798165948/)
+2. [最短突破 ディープラーニングG検定 ジェネラリスト問題集](https://www.amazon.co.jp/dp/429711609X/)
+3. [徹底攻略 ディープラーニングG検定 ジェネラリスト問題集](https://www.amazon.co.jp/dp/4295005665/)
+4. [人工知能は人類を超えるか](https://www.amazon.co.jp/dp/4040800206/)
+5. [AI白書2020](https://www.amazon.co.jp/dp/B085RKWNPB/)
+6. [人工知能のアーキテクトたち ―AIを築き上げた人々が語るその真実](https://www.amazon.co.jp/dp/487311912X/)
 
 ## E資格
-1. [AVILEN 全人類がわかるE資格講座]()
+1. [AVILEN 全人類がわかるE資格コース](https://s.avilen.co.jp/lp/ai-engineer-course/?gclid=CjwKCAjwzOqKBhAWEiwArQGwaHlrnwadb0spETUzsmxnyLF_gOYvr-7GFzMB_yFA2ppvcs8VSK-bxhoC1V0QAvD_BwE)
 
 ## linux
-1. [1週間でLPICの基礎が学べる本]()
-2. [LPICレベル1 スピードマスタ-問題集]()
+1. [1週間でLPICの基礎が学べる本](https://www.amazon.co.jp/dp/B07TD1TTYJ/)
+2. [LPICレベル1 スピードマスタ-問題集](https://www.amazon.co.jp/dp/B07TVTKW2C/)
 
 ## Go言語(勉強中)
-1. [スターティングGo言語]()
-2. [Udemy]
-
+1. [スターティングGo言語](https://www.amazon.co.jp/dp/B01FH3KRTI/)
+2. [Udemy 現役シリコンバレーエンジニアが教えるGo入門 + 応用でビットコインのシストレFintechアプリの開発](https://www.udemy.com/course/go-fintech/)
 
 ## その他読み物
 1. [データサイエンティスト育成読本　機械学習入門編](https://www.amazon.co.jp/dp/B0152OV4VW/)
@@ -127,15 +126,14 @@
 5. [リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)
 6. [コンピューターはなぜ動くのか](https://www.amazon.co.jp/dp/4822281655/)
 2. [分析者のためのデータ解釈学入門](https://www.amazon.co.jp/dp/4802612907/)
-3. [データ分析のための数理モデル入門]()
-4. [データ分析人材になる]()
+3. [データ分析のための数理モデル入門](https://www.amazon.co.jp/dp/B0897SS2JP/)
+4. [データ分析人材になる](https://www.amazon.co.jp/dp/B08L4DQ311/)
 
 ## コミュニティ活動
 以下コミュニティに所属し、日々データサイエンスに関する最新の情報収集に努めています。
-- [AI Quest2021]()
-- [CDLE]()
-- [DataScienceHub]()
-
+- [AI Quest2021](https://aiquest.meti.go.jp/2021/)
+- [CDLE](https://www.cdle.jp/)
+- [DataScienceHub](https://datawokagaku.com/community/)
 
 # 今後の資格取得目標：
 - 統計検定2級を2021年11月6日（土）に受験予定
