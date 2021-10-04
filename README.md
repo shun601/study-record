@@ -73,10 +73,13 @@
 
 ## Kaggle
 1. [Pythonで始めるKaggleスタートブック](https://www.amazon.co.jp/dp/4065190061/)
+  - kaggleってどうやって始めたらいいの？という答えがこの本を読むと書いてある。
 2. [Kaggleで勝つデータ分析の技術](https://www.amazon.co.jp/dp/4297108437/)
+  - kaggleのテーブル系では鉄板の本。画像系も出して欲しい。
 
 ## SQL
 1. [スッキリわかるSQL入門](https://www.amazon.co.jp/dp/4295005096/)
+  - Dokoqlという無料のアプリを使って、SQLを実行しながら進めることができる。解説も分かりやすい。
 
 ## 数学
 1. [マセマ　線形代数](https://www.amazon.co.jp/dp/4866152079/)
@@ -88,30 +91,50 @@
 
 ## 統計学
 1. [マンガでわかる統計学](https://www.amazon.co.jp/dp/4274065707/)
+  - マンガ形式で進むので、非常に分かりやすい。平均、分散、標準偏差から統計的仮設検定まで浅く分かりやすく解説されている。
 2. [マンガでわかる統計学「回帰分析編」](https://www.amazon.co.jp/dp/4274066142/)
+  - 回帰分析(線形回帰、重回帰)についてマンガ形式で分かりやすく解説されている。
 3. [マンガでわかる統計学「因子分析編」](https://www.amazon.co.jp/dp/4274066622/)
+  - 線形代数の知識がないと、読み進めるのが難しいかもしれない。
 4. [マンガでわかるベイズ統計学](https://www.amazon.co.jp/dp/4274221350/)
+  - マンガでわかるというタイトルだが、内容は1~3と比較すると結構難しい。ベイズ統計の考え方を学べる本
 5. [マンガでわかるやさしい統計学](https://www.amazon.co.jp/dp/4262155609/)
+  - 1の書籍よりも、内容としてはより詳しく書いてある。
 6. [統計学がわかるファーストブック]https://www.amazon.co.jp/dp/4774131903/()
+  - 1,5,6と合わせて読むと理解が深まる。t検定の説明、t検定を3水準以上でやってはいけない理由が分かりやすく説明されている。
 7. [統計学がわかる 回帰分析・因子分析編](https://www.amazon.co.jp/dp/4774137073/)
+  - 回帰分析について、2よりもやや詳しく書かれている。因子分析はおまけ程度。
 8. [Rによるやさしい統計学](https://www.amazon.co.jp/dp/4274067106/)
+  - 1~7に比べると、数式も増えて難易度は飛躍的に上がる。RではなくPythonで実装しながら読み進めた。
 9. [図解 ベイズ統計学「超」入門](https://www.amazon.co.jp/dp/4797366575/)
-10. [心理統計学の基礎](https://www.amazon.co.jp/dp/4641121605/)
-11. [統計WEB 統計学の時間](https://bellcurve.jp/statistics/course/)
+  - ベイズ統計の考え方を理解するにはちょうど良い難易度と感じた。マンガ形式で進むので初学者にもやさしい
+10. []()
+11. []()
+12. [心理統計学の基礎](https://www.amazon.co.jp/dp/4641121605/)
+  - 1~11に比べると、難易度は飛躍的に上がる。数式も多く登場するが、非常に分かりやすくまとめられている。
+13. [統計WEB 統計学の時間](https://bellcurve.jp/statistics/course/)
+  - 統計２級の受験対策として活用。説明は要点を押さえて簡潔に説明されており、練習問題も充実しているので、理解度を確かめながら進めることができる。
 
 ## G検定
 1. [深層学習教科書 ディープラーニング G検定 ジェネラリスト 公式テキスト](https://www.amazon.co.jp/dp/4798165948/)
+  - G検定の公式テキスト。通称白本。このテキストだけでは、G検定の対策としては不十分だが、内容はやさしく浅く広く扱っているため理解しやすい。
 2. [最短突破 ディープラーニングG検定 ジェネラリスト問題集](https://www.amazon.co.jp/dp/429711609X/)
+  - AVILEN社が出しているG検定問題集。問題と解説が豊富。この問題集から本番と同じような問題が数多く出された。この問題集を完璧に仕上げれば、本番はまず合格すると思われる(著者は5周問題を解いた)。
 3. [徹底攻略 ディープラーニングG検定 ジェネラリスト問題集](https://www.amazon.co.jp/dp/4295005665/)
+  - 通称黒本。3周分問題を解いた。2の問題集と合わせて勉強すれば、本番の合格は固い。
 4. [人工知能は人類を超えるか](https://www.amazon.co.jp/dp/4040800206/)
+  - AIの歴史から
 5. [AI白書2020](https://www.amazon.co.jp/dp/B085RKWNPB/)
+  - 2020年時点での主に日本のAI業界についてまとめられている本。G検定の前に１度読んだが、AIについてより理解が深まった。
 6. [人工知能のアーキテクトたち ―AIを築き上げた人々が語るその真実](https://www.amazon.co.jp/dp/487311912X/)
+  - AIの世界の権威たちにインタビューした内容をまとめた本。
 
 ## E資格
 1. [AVILEN 全人類がわかるE資格コース](https://s.avilen.co.jp/lp/ai-engineer-course/?gclid=CjwKCAjwzOqKBhAWEiwArQGwaHlrnwadb0spETUzsmxnyLF_gOYvr-7GFzMB_yFA2ppvcs8VSK-bxhoC1V0QAvD_BwE)
 
 ## linux
 1. [1週間でLPICの基礎が学べる本](https://www.amazon.co.jp/dp/B07TD1TTYJ/)
+  - 基本的なLinuxコマンドを習得することができる。
 2. [LPICレベル1 スピードマスタ-問題集](https://www.amazon.co.jp/dp/B07TVTKW2C/)
 
 ## Go言語(勉強中)
@@ -125,9 +148,9 @@
 4. [それ根拠あるのと言わせないデータ・統計分析ができる本](https://www.amazon.co.jp/dp/4534050720/)
 5. [リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)
 6. [コンピューターはなぜ動くのか](https://www.amazon.co.jp/dp/4822281655/)
-2. [分析者のためのデータ解釈学入門](https://www.amazon.co.jp/dp/4802612907/)
-3. [データ分析のための数理モデル入門](https://www.amazon.co.jp/dp/B0897SS2JP/)
-4. [データ分析人材になる](https://www.amazon.co.jp/dp/B08L4DQ311/)
+7. [分析者のためのデータ解釈学入門](https://www.amazon.co.jp/dp/4802612907/)
+8. [データ分析のための数理モデル入門](https://www.amazon.co.jp/dp/B0897SS2JP/)
+9. [データ分析人材になる](https://www.amazon.co.jp/dp/B08L4DQ311/)
 
 ## コミュニティ活動
 以下コミュニティに所属し、日々データサイエンスに関する最新の情報収集に努めています。
@@ -135,35 +158,45 @@
 - [CDLE](https://www.cdle.jp/)
 - [DataScienceHub](https://datawokagaku.com/community/)
 
+
 # 今後の資格取得目標：
 - 統計検定2級を2021年11月6日（土）に受験予定
 - E資格を2022年2月に受験予定
 - lpicレベル1
 - AWS クラウドプラクティショナー
 - データサイエンティスト検定
-- 基本情報技術者
+- 基本情報技術者試験
 
 
 # 今後勉強したい教材
 ## Python 実践
-- [Udemy ドローン]()
+- [Udemy 現役シリコンバレーエンジニアが教える未経験者のためのPythonドローンプログラミング](https://www.udemy.com/course/python-drone/)
+
 ## データ分析
 - [Python実践機械学習システム100本ノック](https://www.amazon.co.jp/Pdp/479806341X/)
 - [Python実践データ加工/可視化100本ノック](https://www.amazon.co.jp/dp/4798064394/)
 - [実践AIモデル構築100本ノック](https://www.amazon.co.jp/dp/4798064408/)
+
 ## 機械学習
+- [Rによる 統計的学習入門](https://www.amazon.co.jp/dp/4254122241/)
+- [言語処理のための機械学習入門](https://www.amazon.co.jp/dp/4339027510/)
 - [Python 機械学習プログラミング 達人データサイエンティストによる理論と実践](https://www.amazon.co.jp/dp/4295010073/)
+
 ## 強化学習
 
 ## 数学
 - [マセマ 常微分方程式](https://www.amazon.co.jp/dp/4866151668/)
 - [マセマ 偏微分方程式](https://www.amazon.co.jp/dp/4866151749/)
+
 ## 統計
-- 
-## パターン認識
+- [続・心理統計学の基礎--統合的理解を広げ深める](https://www.amazon.co.jp/dp/4641220417/)
+- [基本統計学 第4版](https://www.amazon.co.jp/dp/464116455X/)
+- [統計学入門](https://www.amazon.co.jp/dp/4130420658/)
+- [多変量解析法入門](https://www.amazon.co.jp/dp/4781909809/)
 
 ## Go言語
-- [スターティングGo]()
-- [Udemy Go]()
+- [スターティングGo](https://www.amazon.co.jp/dp/B01FH3KRTI/)
+- [Udemy 現役シリコンバレーエンジニアが教えるGo入門 + 応用でビットコインのシストレFintechアプリの開発](https://www.udemy.com/course/go-fintech/)
+
 
 最新の技術についても常にアンテナをはってエンジニアとしての研鑽に日々励んでおります。
