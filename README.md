@@ -156,7 +156,8 @@
 8. [データ分析のための数理モデル入門](https://www.amazon.co.jp/dp/B0897SS2JP/)
 9. [データ分析人材になる](https://www.amazon.co.jp/dp/B08L4DQ311/)
 
-## コミュニティ活動
+
+# コミュニティ活動
 以下コミュニティに所属し、日々データサイエンスに関する最新の情報収集に努めています。
 - [CDLE](https://www.cdle.jp/)
 - [CDLEハッカソン2021参加中](https://www.jdla.org/cdle-hackathon/)
@@ -175,6 +176,26 @@
 - AWS クラウドプラクティショナー
 - データサイエンティスト検定
 - 基本情報技術者試験
+
+
+# コンペ戦績
+SIGNATEやkaggleなどの機械学習コンペに参加しております。
+画像コンペを中心に参加しており、これまでの参加成績は以下の通りです。
+アカウント名: shun601
+■SIGNATE 称号:Master 金1銀3銅1
+・[パナソニック株式会社 間取り図解析アルゴリズム作成](https://signate.jp/competitions/444/) 1位/159人投稿
+・[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成](https://signate.jp/competitions/403) 12位/101人投稿
+・[オフロード画像のセグメンテーションチャレンジ（推論速度部門）](https://signate.jp/competitions/131) 5位/38人投稿
+・[オフロード画像のセグメンテーションチャレンジ（認識精度部門）](https://signate.jp/competitions/109) 23位/142人投稿
+・[The 4th Tellus Satellite Challenge：海岸線の抽出](https://signate.jp/competitions/284) 33位/125人投稿
+私が最初に参加したコンペ「The 4th Tellus Satellite Challenge：海岸線の抽出」に関しましては、
+SIGNATE様に公開の許可を頂き、実装コードを以下Githubにて公開しております。
+https://github.com/shun601/4th-tellus-satellite-challenge
+■Kaggle 銅1
+アカウント名: shun601
+・[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification) 258位/3900位、TOP7%
+今後も各種機械学習コンペに参加し、スキルアップに努めます。
+
 
 
 # 今後勉強したい教材
