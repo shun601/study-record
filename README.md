@@ -158,9 +158,14 @@
 
 ## コミュニティ活動
 以下コミュニティに所属し、日々データサイエンスに関する最新の情報収集に努めています。
-- [AI Quest2021](https://aiquest.meti.go.jp/2021/)
 - [CDLE](https://www.cdle.jp/)
+- [CDLEハッカソン2021参加中](https://www.jdla.org/cdle-hackathon/)
+- [AI Quest2021](https://aiquest.meti.go.jp/2021/)
 - [DataScienceHub](https://datawokagaku.com/community/)
+
+
+# 取得資格
+- G検定2021#1 合格
 
 
 # 今後の資格取得目標：
